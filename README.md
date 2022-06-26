@@ -10,5 +10,9 @@ Here are the controls and rules to the game
 # Video Description
 
 
-https://user-images.githubusercontent.com/74827204/160272133-7d83b14d-50a8-4efb-8722-92fd664c0cad.mov
+
+
+
+
+https://user-images.githubusercontent.com/95096241/175836387-557e0559-b8ca-42c8-b995-a386d8617491.mp4
 
