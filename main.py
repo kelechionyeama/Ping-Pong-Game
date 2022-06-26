@@ -8,7 +8,7 @@ import time
 screen = Screen()
 screen.bgcolor('black')
 screen.setup(width=WIDTH, height=HEIGHT)
-screen.title('Ugo\'s Ping Pong')
+screen.title('Kelechi\'s Ping Pong')
 scoreboard = ScoreBoard()
 paddle_left = Paddle('left', screen)
 paddle_right = Paddle('right', screen)
